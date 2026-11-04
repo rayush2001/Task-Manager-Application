@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager Application
 
 A simple task management REST API built with Python, FastAPI, and PostgreSQL.
 
